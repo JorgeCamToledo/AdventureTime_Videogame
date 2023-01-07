@@ -1,0 +1,10 @@
+certifi==2022.6.15
+charset-normalizer==2.1.1
+idna==3.3
+numpy==1.23.4
+psycopg2==2.9.3
+pygame==2.1.2
+PyGreSQL==5.2.4
+pytube==12.1.0
+requests==2.28.1
+urllib3==1.26.12
